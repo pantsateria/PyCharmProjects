@@ -1,2 +1,0 @@
-# PyCharmProjects
-My first Repository
